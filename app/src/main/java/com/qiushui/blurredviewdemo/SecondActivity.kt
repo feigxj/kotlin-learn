@@ -96,7 +96,7 @@ class SecondActivity {
         //增强for遍历
         (list as ArrayList<String>).forEach { System.out.println(it) }
         //
-        for (i in list.i)
+
 
 
     }

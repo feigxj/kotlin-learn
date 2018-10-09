@@ -14,8 +14,7 @@ import com.qiushui.blurredview.BlurredView;
  * Weather Demo
  * @author Qiushui
  */
-
-public class WeatherActivity extends AppCompatActivity {
+ public class WeatherActivity extends AppCompatActivity {
 
     /**
      * blurredview
@@ -64,4 +63,5 @@ public class WeatherActivity extends AppCompatActivity {
         });
 
     }
+
 }
